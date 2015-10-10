@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "blcentra@gmail.com",
+    "longName": "Tutorial 1",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Tutorial 1",
+    "uuid": "297f199a-cce6-4993-a103-2b2cf912b255",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
