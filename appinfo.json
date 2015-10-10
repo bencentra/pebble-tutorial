@@ -1,7 +1,10 @@
 {
-    "appKeys": {},
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_TEMPERATURE": 0
+    },
     "capabilities": [
-        ""
+        "location"
     ],
     "companyName": "blcentra@gmail.com",
     "longName": "Tutorial 1",
@@ -15,6 +18,11 @@
             },
             {
                 "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_20",
+                "type": "font"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
                 "name": "FONT_PERFECT_DOS_48",
                 "type": "font"
             }
@@ -22,6 +30,10 @@
     },
     "sdkVersion": "3",
     "shortName": "Tutorial 1",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
     "uuid": "297f199a-cce6-4993-a103-2b2cf912b255",
     "versionLabel": "1.0",
     "watchapp": {
